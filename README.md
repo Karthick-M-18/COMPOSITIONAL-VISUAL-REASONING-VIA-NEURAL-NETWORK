@@ -47,8 +47,8 @@ We use ResNet-101 model to extract features from the images
 %run /content/drive/MyDrive/CLEVR_v1.0/extract_features.py --input_image_dir /content/CLEVR_v1/images/test --output_h5_file /content/drive/MyDrive/CLEVR_v1.0/CLEVR_v1/data/test.h5 --batch_size 32
 ```
 ### Gif
-![](https://github.com/Karthick-M-18/COMPOSITIONAL-VISUAL-REASONING-VIA-NEURAL-NETWORK/output.gif)
-
+![](https://github.com/Karthick-M-18/COMPOSITIONAL-VISUAL-REASONING-VIA-NEURAL-NETWORK/blob/main/Gif1.gif)
+![](https://github.com/Karthick-M-18/COMPOSITIONAL-VISUAL-REASONING-VIA-NEURAL-NETWORK/blob/main/Gif2.gif)
 
 Once the files have been uploaded successfully, Navigate to the CLEVR_v1.0 folder
 ```bash

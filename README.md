@@ -50,8 +50,4 @@ We use ResNet-101 model to extract features from the images
 ![](https://github.com/Karthick-M-18/COMPOSITIONAL-VISUAL-REASONING-VIA-NEURAL-NETWORK/blob/main/Gif1.gif)
 ![](https://github.com/Karthick-M-18/COMPOSITIONAL-VISUAL-REASONING-VIA-NEURAL-NETWORK/blob/main/Gif2.gif)
 
-Once the files have been uploaded successfully, Navigate to the CLEVR_v1.0 folder
-```bash
-%cd /content/drive/MyDrive/CLEVR_v1.0/
-```
-
+### Please refer the file COMPOSITIONAL_VISUAL_REASONING_VIA_NEURAL_NETWORK.ipunb for the entire code
